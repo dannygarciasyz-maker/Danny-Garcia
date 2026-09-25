@@ -1,0 +1,8 @@
+{
+  "name": "Copy of ATSYZ - ATS Inteligente",
+  "description": "Una aplicación avanzada de Análisis de Trabajo Seguro (ATS) impulsada por Gemini para la gestión de riesgos laborales en Colombia, con análisis de visión por IA y validación de cumplimiento normativo (HSE).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
